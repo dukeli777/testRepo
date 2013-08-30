@@ -1,0 +1,19 @@
+#blogArea {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#editor {
+    font-size: 11pt;
+    letter-spacing: 0.25em;
+    background-color: white;
+    width: 700px;
+    height: 500px;
+    border-style: solid;
+    border-color: grey;
+    border-width: 5px;
+}
+input {
+    margin: 0px;
+    background-color: black;
+    color: white;
+}
